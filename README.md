@@ -20,5 +20,5 @@ An open source neural network versioning system designed to separate model manag
 >>> nnc.update(modelname, localModel)
 ```
 ## Comparison with other platforms
-![Traditional Cloud Worlflow](./TraditionalCloudWorkflow.png)
-![Local Training Workflow](./LocalTrainingWorkflow.png)
+![Traditional Cloud Worlflow](/TraditionalCloudWorkflow.png?raw=true)
+![Local Training Workflow](/LocalTrainingWorkflow.png?raw=true)
